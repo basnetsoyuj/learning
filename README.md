@@ -2,6 +2,7 @@
 
 A curated and personal to-do learning list for the things I want to learn and be better at.
 
+*Note: ◌ denotes the things I am learning currently.*
 
 ## Docker
 - [X] [Docker for the Absolute Beginner - Hands On](https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on)
