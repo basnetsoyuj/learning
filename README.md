@@ -8,11 +8,24 @@ A curated and personal to-do learning list for the things I want to learn and be
 - [ ] [Docker - SWARM | SERVICES | STACKS - Hands-on](https://kodekloud.com/p/docker-swarm-services-stacks-hands-on)
 
 ## Kubernetes
-- [ ] [Kubernetes For The Absolute Beginner - Hands On](https://kodekloud.com/p/kubernetes-for-the-absolute-beginners-hands-on)
+- [ ] ◌ [Kubernetes For The Absolute Beginner - Hands On](https://kodekloud.com/p/kubernetes-for-the-absolute-beginners-hands-on)
 - [ ] [Certified Kubernetes Administrator (CKA) with Practice Tests](https://kodekloud.com/p/certified-kubernetes-administrator-with-practice-tests)
 - [ ] [Certified Kubernetes Application Developer (CKAD)](https://kodekloud.com/p/kubernetes-certification-course)
 
+## Computer Science Books
+- [ ] ◌  [Deep Learning Book](https://www.deeplearningbook.org/)
+- [ ] [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)
+
+## Mathematics Books
+- [ ] [Mathematical Methods For Physics and Engineering](https://luiarthur.github.io/assets/ams211/mathbook.pdf)
+
+## Be Better at Version Control 
+- [X] [Learn git concepts, not commands](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
+- [ ] [Git Concepts I Wish I Knew Years Ago](https://dev.to/g_abud/advanced-git-reference-1o9j)
+
 ## Research Papers
+- [X] [Paper: Mastering the game of Go with deep neural networks and tree search](https://vk.com/doc-44016343_437229031?dl=56ce06e325d42fbc72)
+- [X] [Paper: Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/pdf/1712.01815.pdf)
 - [ ] [Paper: A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
 - [ ] [Paper: Efficient Estimation of Word Representations in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
 - [ ] [Paper: Sequence to Sequence Learning with Neural Networks](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
@@ -47,3 +60,4 @@ A curated and personal to-do learning list for the things I want to learn and be
 - [ ] [Paper: Universal Sentence Encoder](https://arxiv.org/abs/1803.11175)
 - [ ] [Paper: Enriching Word Vectors with Subword Information](https://arxiv.org/abs/1607.04606)
 - [ ] [Paper: Deep Learning Based Text Classification: A Comprehensive Review](https://arxiv.org/abs/2004.03705)
+- [ ] [Paper: Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
