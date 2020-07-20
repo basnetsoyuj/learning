@@ -2,27 +2,50 @@
 
 A curated and personal to-do learning list for the things I want to learn and be better at.
 
-*Note: ◌ denotes the things I am learning currently.*
+*Note: ⚫ denotes the things I am learning currently.*
 
 ## Docker
 - [X] [Docker for the Absolute Beginner - Hands On](https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on)
 - [ ] [Docker - SWARM | SERVICES | STACKS - Hands-on](https://kodekloud.com/p/docker-swarm-services-stacks-hands-on)
 
 ## Kubernetes
-- [ ] ◌ [Kubernetes For The Absolute Beginner - Hands On](https://kodekloud.com/p/kubernetes-for-the-absolute-beginners-hands-on)
+- [ ] ⚫ [Kubernetes For The Absolute Beginner - Hands On](https://kodekloud.com/p/kubernetes-for-the-absolute-beginners-hands-on)
 - [ ] [Certified Kubernetes Administrator (CKA) with Practice Tests](https://kodekloud.com/p/certified-kubernetes-administrator-with-practice-tests)
 - [ ] [Certified Kubernetes Application Developer (CKAD)](https://kodekloud.com/p/kubernetes-certification-course)
 
 ## Computer Science Books
-- [ ] ◌  [Deep Learning Book](https://www.deeplearningbook.org/)
+- [ ] ⚫ [Deep Learning Book](https://www.deeplearningbook.org/)
 - [ ] [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)
 
 ## Mathematics Books
-- [ ] [Mathematical Methods For Physics and Engineering](https://luiarthur.github.io/assets/ams211/mathbook.pdf)
+- [ ] ⚫ [Mathematical Methods For Physics and Engineering](https://luiarthur.github.io/assets/ams211/mathbook.pdf)
+
+### Be Better At Using Command Line
+- [ ] [Bash Academy](http://guide.bash.academy)
+- [ ] [Bash Programming](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
+- [ ] [Codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
+- [ ] ⚫ [CONQUERING THE COMMAND LINE](http://conqueringthecommandline.com/book)
+- [ ] [Datacamp: Introduction to Shell for Data Science](https://www.datacamp.com/courses/introduction-to-shell-for-data-science)
+- [ ] [Datacamp: Data Processing in Shell](https://www.datacamp.com/courses/data-processing-in-shell)
+- [ ] [LaunchSchool: Introduction to Commandline](https://launchschool.com/books/command_line)
+- [ ] [Learn Enough Command Line to be dangerous](http://www.learnenough.com/command-line-tutorial)
+- [ ] [Thoughtbot: Mastering the Shell](https://thoughtbot.com/upcase/mastering-the-shell)
+- [ ] [Thoughtbot: tmux](https://thoughtbot.com/upcase/tmux)
+- [X] [Udacity: Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
+- [ ] [Udacity: Linux Web Servers](https://www.udacity.com/courses/ud299)
+- [ ] [Udacity: Shell Workshop](https://www.udacity.com/course/shell-workshop--ud206)
+- [ ] [Udacity: Web Tooling & Automation](https://www.udacity.com/course/web-tooling-automation--ud892)
+- [ ] [Web Bos:  Command Line Power User](https://www.youtube.com/watch?v=DP218aBHm1Q&list=PLu8EoSxDXHP7tXPJp5ZmUpuT7sFvrswzf&index=2)
 
 ## Be Better at Version Control 
 - [X] [Learn git concepts, not commands](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
 - [ ] [Git Concepts I Wish I Knew Years Ago](https://dev.to/g_abud/advanced-git-reference-1o9j)
+
+## Reinforcement Learning
+- [X] [YouTube: RL Course by David Silver](https://youtu.be/2pWv7GOvuf0)
+
+## Linux Administration
+- [] [The Linux Basics Course](https://kodekloud.com/p/the-linux-basics-course)
 
 ## Research Papers
 - [X] [Paper: Mastering the game of Go with deep neural networks and tree search](https://vk.com/doc-44016343_437229031?dl=56ce06e325d42fbc72)
