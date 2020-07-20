@@ -45,7 +45,7 @@ A curated and personal to-do learning list for the things I want to learn and be
 - [X] [YouTube: RL Course by David Silver](https://youtu.be/2pWv7GOvuf0)
 
 ## Linux Administration
-- [] [The Linux Basics Course](https://kodekloud.com/p/the-linux-basics-course)
+- [ ] [The Linux Basics Course](https://kodekloud.com/p/the-linux-basics-course)
 
 ## Research Papers
 - [X] [Paper: Mastering the game of Go with deep neural networks and tree search](https://vk.com/doc-44016343_437229031?dl=56ce06e325d42fbc72)
