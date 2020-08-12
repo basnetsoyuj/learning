@@ -20,7 +20,7 @@ A curated and personal to-do learning list for the things I want to learn and be
 ## Mathematics Books
 - [ ] :hourglass: [Mathematical Methods For Physics and Engineering](https://luiarthur.github.io/assets/ams211/mathbook.pdf)
 
-### Be Better At Using Command Line
+## Be Better At Using Command Line
 - [ ] [Bash Academy](http://guide.bash.academy)
 - [ ] [Bash Programming](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
 - [ ] [Codecademy: Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
@@ -52,6 +52,15 @@ A curated and personal to-do learning list for the things I want to learn and be
 - [ ] :hourglass: [YouTube Video: DeepMind x UCL Deep Learning Series 2020](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
 - [ ] :hourglass: [Full Stack Deep Learning Bootcamp](https://fullstackdeeplearning.com/march2019)
 
+## Learn From The Great
+- [ ] :hourglass: [Artificial Intelligence (AI) Podcast](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
+  - [X] [Jeremy Howard: fast.ai Deep Learning Courses and Research](https://youtu.be/J6XcP4JOHmk)
+  - [X] [David Silver: AlphaGo, AlphaZero, and Deep Reinforcement Learning](https://youtu.be/uPUEq8d73JI)
+  - [X] [George Hotz: Comma.ai, OpenPilot, and Autonomous Vehicles](https://youtu.be/iwcYp-XT7UI)
+  - [X] [Andrew Ng: Deep Learning, Education, and Real-World AI](https://youtu.be/0jspaMLxBig)
+  - [X] [Ian Goodfellow: Generative Adversarial Networks (GANs)](https://youtu.be/Z6rxFNMGdn0)
+  - [X] [Grant Sanderson: 3Blue1Brown and the Beauty of Mathematics](https://youtu.be/U_lKUK2MCsg)
+  
 ## Research Papers
 - [X] [Paper: Mastering the game of Go with deep neural networks and tree search](https://vk.com/doc-44016343_437229031?dl=56ce06e325d42fbc72)
 - [X] [Paper: Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/pdf/1712.01815.pdf)
