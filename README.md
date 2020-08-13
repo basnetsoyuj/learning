@@ -16,6 +16,7 @@ A curated and personal to-do learning list for the things I want to learn and be
 ## Computer Science Books
 - [ ] :hourglass: [Deep Learning Book](https://www.deeplearningbook.org/)
 - [ ] [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)
+- [ ] [Hands on Machine Learning with Scikit Learn Keras and TensorFlow 2nd Edition](https://github.com/loveunk/Deep-learning-books/blob/master/1.%20Machine%20Leaning%20and%20Deep%20Learning/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20Keras%20and%20TensorFlow%202nd%20Edition-2019.pdf)
 
 ## Mathematics Books
 - [ ] :hourglass: [Mathematical Methods For Physics and Engineering](https://luiarthur.github.io/assets/ams211/mathbook.pdf)
@@ -52,6 +53,11 @@ A curated and personal to-do learning list for the things I want to learn and be
 - [ ] :hourglass: [fast.ai online courses](https://www.fast.ai/)
 - [ ] :hourglass: [YouTube Video: DeepMind x UCL Deep Learning Series 2020](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
 - [ ] :hourglass: [Full Stack Deep Learning Bootcamp](https://fullstackdeeplearning.com/march2019)
+- [X] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
+- [X] [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network)
+- [ ] [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
+- [X] [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
+- [ ] :hourglass: [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 
 ## Mathematics
 - [X] [Khan Academy: Differential Calculus](https://www.khanacademy.org/mission/differential-calculus)
