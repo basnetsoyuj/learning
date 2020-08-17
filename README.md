@@ -49,6 +49,10 @@ A curated and personal to-do learning list for the things I want to learn and be
 ## Linux Administration
 - [ ] [The Linux Basics Course](https://kodekloud.com/p/the-linux-basics-course)
 
+## Text Editor
+- [ ] :hourglass: [VIM GENIUS](http://www.vimgenius.com/)
+- [ ] [Mastering Pycharm](https://www.amazon.com/Mastering-PyCharm-Quazi-Nafiul-Islam-ebook/dp/B00YSIKR3A)
+
 ## Artificial Intelligence
 - [ ] :hourglass: [fast.ai online courses](https://www.fast.ai/)
 - [ ] :hourglass: [YouTube Video: DeepMind x UCL Deep Learning Series 2020](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
