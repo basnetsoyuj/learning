@@ -438,4 +438,5 @@ A curated and personal to-do learning list for the things I want to learn and be
 - [ ] [Paper: Universal Sentence Encoder](https://arxiv.org/abs/1803.11175)
 - [ ] [Paper: Enriching Word Vectors with Subword Information](https://arxiv.org/abs/1607.04606)
 - [ ] [Paper: Deep Learning Based Text Classification: A Comprehensive Review](https://arxiv.org/abs/2004.03705)
-- [ ] [Paper: Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
+- [X] [Paper: Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
+- [X] [Paper: End-to-End Object Detection with Transformers](https://arxiv.org/pdf/2005.12872.pdf)
