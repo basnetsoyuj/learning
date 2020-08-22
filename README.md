@@ -2,7 +2,7 @@
 
 A curated and personal to-do learning list for the things I want to learn and be better at.
 
->**Note: :hourglass: denotes the things I am currently learning.**
+>**Note: :hourglass: refers to the things I am currently focused on learning.**
 
 ## Docker
 - [X] [Docker for the Absolute Beginner - Hands On](https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on)
