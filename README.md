@@ -400,6 +400,7 @@ A curated and personal to-do learning list for the things I want to learn and be
   - [X] [Garry Kasparov: Chess, Deep Blue, AI, and Putin](https://youtu.be/8RVa0THWUWw)
   - [X] [Brian Kernighan: UNIX, C, AWK, AMPL, and Go Programming](https://youtu.be/O9upVbGSBFo)
   - [X] [Ilya Sutskever: Deep Learning](https://youtu.be/13CZPWmke6A)
+  - [X] [Grant Sanderson: Math, Manim, Neural Networks & Teaching with 3Blue1Brown](https://youtu.be/U_6AYX42gkU)
   
 ## Research Papers
 - [X] [Paper: Mastering the game of Go with deep neural networks and tree search](https://vk.com/doc-44016343_437229031?dl=56ce06e325d42fbc72)
