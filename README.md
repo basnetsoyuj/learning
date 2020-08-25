@@ -40,6 +40,7 @@ A curated and personal to-do learning list for the things I want to learn and be
 
 ## Be Better at Version Control 
 - [X] [Learn git concepts, not commands](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
+- [X] [GIT for beginners](https://kodekloud.com/p/git-for-beginners)
 - [ ] [Git Concepts I Wish I Knew Years Ago](https://dev.to/g_abud/advanced-git-reference-1o9j)
 - [ ] [Git Book](https://git-scm.com/book/en/v2)
 
