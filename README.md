@@ -1,6 +1,6 @@
 # To-do Learning List
 
-[![HitCount](http://hits.dwyl.com/basnetsoyuj/learning.svg)](http://hits.dwyl.com/basnetsoyuj/learning)
+<img src="https://img.shields.io/github/last-commit/basnetsoyuj/learning?label=Last%20Learned"/>
 
 A curated and personal to-do learning list for the things I want to learn and be better at.
 
