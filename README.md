@@ -56,6 +56,15 @@ A curated and personal to-do learning list for the things I want to learn and be
 
 ## Artificial Intelligence
 - [ ] :hourglass: [fast.ai online courses](https://www.fast.ai/)
+	- [ ] [Fast.ai: Deep Learning for Coders (2020)](https://course.fast.ai/)
+	    - [X] [Lesson 1](https://course.fast.ai/videos/?lesson=1)
+	    - [X] [Lesson 2](https://course.fast.ai/videos/?lesson=2)
+	    - [X] [Lesson 3](https://course.fast.ai/videos/?lesson=3)
+	    - [X] [Lesson 4](https://course.fast.ai/videos/?lesson=4)
+	    - [ ] [Lesson 5](https://course.fast.ai/videos/?lesson=5)
+	    - [ ] [Lesson 6](https://course.fast.ai/videos/?lesson=6)
+	    - [ ] [Lesson 7](https://course.fast.ai/videos/?lesson=7)
+	    - [ ] [Lesson 8](https://course.fast.ai/videos/?lesson=8)
 - [ ] :hourglass: [YouTube Video: DeepMind x UCL Deep Learning Series 2020](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
 - [ ] :hourglass: [Full Stack Deep Learning Bootcamp](https://fullstackdeeplearning.com/march2019)
 - [X] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
@@ -110,8 +119,11 @@ A curated and personal to-do learning list for the things I want to learn and be
 	- [X] [Gradient descent, how neural networks learn | Deep learning, chapter 2](https://www.youtube.com/watch?v=IHZwWFHWa-w) `0:21:01`
 	- [X] [What is backpropagation really doing? | Deep learning, chapter 3](https://www.youtube.com/watch?v=Ilg3gGewQ5U) `0:13:54`
 	- [X] [Backpropagation calculus | Deep learning, chapter 4](https://www.youtube.com/watch?v=tIeHLnjs5U8) `0:10:17`
+- [ ] [Youtube: Visualizing Deep Learning](https://www.youtube.com/playlist?list=PLyPKqVSnetmEOp_g_hfabuRAs9ET-shl_)
+    - [X] [The Neural Network, A Visual Introduction | Visualizing Deep Learning, Chapter 1](https://youtu.be/UOvPeC8WOt8)
 
 ### NLP
+- [ ] [Article: The Transformer Explained](https://nostalgebraist.tumblr.com/post/185326092369/the-transformer-explained)
 - [ ] [Article: The Annotated GPT-2](https://amaarora.github.io/2020/02/18/annotatedGPT2.html)
 - [ ] [Article: Introduction to recurrent neural networks](https://www.jeremyjordan.me/introduction-to-recurrent-neural-networks/)
 - [ ] [Article: Aspect-Based Opinion Mining (NLP with Python)](https://medium.com/@pmin91/aspect-based-opinion-mining-nlp-with-python-a53eb4752800)
