@@ -121,6 +121,13 @@ A curated and personal to-do learning list for the things I want to learn and be
 	- [X] [Gradient descent, how neural networks learn | Deep learning, chapter 2](https://www.youtube.com/watch?v=IHZwWFHWa-w) `0:21:01`
 	- [X] [What is backpropagation really doing? | Deep learning, chapter 3](https://www.youtube.com/watch?v=Ilg3gGewQ5U) `0:13:54`
 	- [X] [Backpropagation calculus | Deep learning, chapter 4](https://www.youtube.com/watch?v=tIeHLnjs5U8) `0:10:17`
+- [X] [Khan Academy: Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
+	- [X] [Thinking about multivariable functions](https://www.khanacademy.org/math/multivariable-calculus/thinking-about-multivariable-function)
+	- [X] [Derivatives of multivariable functions](https://www.khanacademy.org/math/multivariable-calculus/multivariable-derivatives)
+	- [X] [Applications of multivariable derivatives](https://www.khanacademy.org/math/multivariable-calculus/applications-of-multivariable-derivatives)
+	- [ ] [Integrating multivariable functions](https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions)
+	- [ ] [Green's, Stokes', and the divergence theorems](https://www.khanacademy.org/math/multivariable-calculus/greens-theorem-and-stokes-theorem)
+
 - [ ] [Youtube: Visualizing Deep Learning](https://www.youtube.com/playlist?list=PLyPKqVSnetmEOp_g_hfabuRAs9ET-shl_)
     - [X] [The Neural Network, A Visual Introduction | Visualizing Deep Learning, Chapter 1](https://youtu.be/UOvPeC8WOt8)
 
