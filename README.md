@@ -56,6 +56,17 @@ A curated and personal to-do learning list for the things I want to learn and be
 - [ ] :hourglass: [VIM GENIUS](http://www.vimgenius.com/)
 - [ ] [Mastering Pycharm](https://www.amazon.com/Mastering-PyCharm-Quazi-Nafiul-Islam-ebook/dp/B00YSIKR3A)
 
+## Data Science
+- [ ] [Article: Modern Pandas](https://tomaugspurger.github.io)
+    - [ ] [Modern Pandas (Part 1)](https://tomaugspurger.github.io/modern-1-intro.html)
+    - [ ] [Modern Pandas (Part 2)](https://tomaugspurger.github.io/method-chaining.html)
+    - [ ] [Modern Pandas (Part 3)](https://tomaugspurger.github.io/modern-3-indexes.html)
+    - [ ] [Modern Pandas (Part 4)](https://tomaugspurger.github.io/modern-4-performance.html)
+    - [ ] [Modern Pandas (Part 5)](https://tomaugspurger.github.io/modern-5-tidy.html)
+    - [ ] [Modern Pandas (Part 6)](https://tomaugspurger.github.io/modern-6-visualization.html)
+    - [ ] [Modern Pandas (Part 7)](https://tomaugspurger.github.io/modern-7-timeseries.html)
+    - [ ] [Modern Pandas (Part 8)](https://tomaugspurger.github.io/modern-8-scaling.html)
+
 ## Artificial Intelligence
 - [ ] :hourglass: [fast.ai online courses](https://www.fast.ai/)
 	- [ ] [Fast.ai: Deep Learning for Coders (2020)](https://course.fast.ai/)
