@@ -22,6 +22,14 @@ A curated and personal to-do learning list for the things I want to learn and be
 
 ## Mathematics Books
 - [ ] :hourglass: [Mathematical Methods For Physics and Engineering](https://luiarthur.github.io/assets/ams211/mathbook.pdf)
+- [ ] [Infinite Powers: How Calculus Reveals the Secrets of the Universe](https://www.amazon.com/Infinite-Powers-Calculus-Reveals-Universe/dp/1328879984)
+- [ ] [The Mathematical Mechanic: Using Physical Reasoning to Solve Problems](https://www.amazon.com/Mathematical-Mechanic-Physical-Reasoning-Problems/dp/0691154562)
+
+## Physics Books
+- [ ] [The Feynman Lectures on Physics]
+    - [X] [Volume I](https://www.feynmanlectures.caltech.edu/I_toc.html)
+    - [ ] [Volume II](https://www.feynmanlectures.caltech.edu/II_toc.html) 
+    - [ ] [Volume III](https://www.feynmanlectures.caltech.edu/III_toc.html) 
 
 ## Be Better At Using Command Line
 - [ ] [Bash Academy](http://guide.bash.academy)
