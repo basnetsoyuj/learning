@@ -26,7 +26,7 @@ A curated and personal to-do learning list for the things I want to learn and be
 - [ ] [The Mathematical Mechanic: Using Physical Reasoning to Solve Problems](https://www.amazon.com/Mathematical-Mechanic-Physical-Reasoning-Problems/dp/0691154562)
 
 ## Physics Books
-- [ ] [The Feynman Lectures on Physics]
+- [ ] [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)
     - [X] [Volume I](https://www.feynmanlectures.caltech.edu/I_toc.html)
     - [ ] [Volume II](https://www.feynmanlectures.caltech.edu/II_toc.html) 
     - [ ] [Volume III](https://www.feynmanlectures.caltech.edu/III_toc.html) 
