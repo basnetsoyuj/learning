@@ -65,6 +65,8 @@ A curated and personal to-do learning list for the things I want to learn and be
 - [ ] [Mastering Pycharm](https://www.amazon.com/Mastering-PyCharm-Quazi-Nafiul-Islam-ebook/dp/B00YSIKR3A)
 
 ## Data Science
+- [ ] :hourglass: [Book: The Art of Statistics: Learning from Data](https://www.amazon.com/Art-Statistics-Learning-Pelican-Books-ebook/dp/B07HQDJD99)
+- [ ] [Book: Practical Statistics for Data Scientists](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/1491952962)
 - [ ] [Article: Modern Pandas](https://tomaugspurger.github.io)
     - [ ] [Modern Pandas (Part 1)](https://tomaugspurger.github.io/modern-1-intro.html)
     - [ ] [Modern Pandas (Part 2)](https://tomaugspurger.github.io/method-chaining.html)
@@ -95,7 +97,7 @@ A curated and personal to-do learning list for the things I want to learn and be
 - [ ] :hourglass: [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 
 ## PyTorch
-- [ ] :hourglass: [Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
+- [ ] :hourglass: [Book: Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
 - [ ] [Article: An introduction to PyTorch Lightning with comparisons to PyTorch](https://amaarora.github.io/2020/07/12/oganized-pytorch.html)
 - [ ] [Datacamp: Introduction to Deep Learning with PyTorch](https://www.datacamp.com/courses/deep-learning-with-pytorch)
 - [ ] [Deeplizard: Neural Network Programming - Deep Learning with PyTorch](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
