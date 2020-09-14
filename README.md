@@ -446,6 +446,7 @@ A curated and personal to-do learning list for the things I want to learn and be
   - [X] [Grant Sanderson: Math, Manim, Neural Networks & Teaching with 3Blue1Brown](https://youtu.be/U_6AYX42gkU)
   
 ## Research Papers
+- [X] [Cut, Paste and Learn: Surprisingly Easy Synthesis for Instance Detection](https://arxiv.org/pdf/1708.01642.pdf)
 - [X] [Paper: Mastering the game of Go with deep neural networks and tree search](https://vk.com/doc-44016343_437229031?dl=56ce06e325d42fbc72)
 - [X] [Paper: Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/pdf/1712.01815.pdf)
 - [ ] [Paper: A Neural Probabilistic Language Model](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
