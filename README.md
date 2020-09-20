@@ -19,6 +19,7 @@ A curated and personal to-do learning list for the things I want to learn and be
 - [ ] :hourglass: [Deep Learning Book](https://www.deeplearningbook.org/)
 - [ ] [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)
 - [ ] [Hands on Machine Learning with Scikit Learn Keras and TensorFlow 2nd Edition](https://github.com/loveunk/Deep-learning-books/blob/master/1.%20Machine%20Leaning%20and%20Deep%20Learning/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20Keras%20and%20TensorFlow%202nd%20Edition-2019.pdf)
+- [ ] [Introduction to Algorithms](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf)
 
 ## Mathematics Books
 - [ ] :hourglass: [Mathematical Methods For Physics and Engineering](https://luiarthur.github.io/assets/ams211/mathbook.pdf)
@@ -343,6 +344,13 @@ A curated and personal to-do learning list for the things I want to learn and be
 - [ ] [Youtube: Sentiment Analysis: Key Milestones, Challenges and New Directions](https://www.youtube.com/watch?v=YAqjf7to-lU)
 - [ ] [Youtube: Simple and Efficient Deep Learning for Natural Language Processing, with Moshe Wasserblat, Intel AI](https://www.youtube.com/watch?v=Bgr684dPJ6U)
 - [ ] [Youtube: Why not solve biological problems with a Transformer? BERTology meets Biology](https://www.youtube.com/watch?v=pFf4PltQ9LY)
+- [ ] [TextBlob Tutorial Series](https://www.youtube.com/watch?v=4k2cqUIjb8g&list=PLJ39kWiJXSizrWpC7hcu1_mLNxEPzN0gF)
+	- [ ] [Natural Language Processing Tutorial With TextBlob -Tokens,Translation and Ngrams](https://www.youtube.com/watch?v=4k2cqUIjb8g) `0:11:01`
+	- [ ] [NLP Tutorial With TextBlob and Python - Parts of Speech Tagging](https://www.youtube.com/watch?v=aWhqoPLr6Jg) `0:05:59`
+	- [ ] [NLP Tutorial With TextBlob & Python - Lemmatizating](https://www.youtube.com/watch?v=tNUoqSlzM_k) `0:06:32`
+	- [ ] [NLP Tutorial  with TextBlob &  Python - Sentiment Analysis(Polarity,Subjectivity)](https://www.youtube.com/watch?v=dR9Dcq-qgIE) `0:06:31`
+	- [ ] [Building a NLP-based Flask App with TextBlob](https://www.youtube.com/watch?v=7tLBHkqMae8) `0:37:30`
+	- [ ] [Natural Language Processing with Polyglot - Installation & Intro](https://www.youtube.com/watch?v=qtMEp6WxwCQ) `0:12:49`
 
 ## Unsupervised Learning
 - [ ] [Article: Grouping data points with k-means clustering](https://www.jeremyjordan.me/grouping-data-points-with-k-means-clustering/)
