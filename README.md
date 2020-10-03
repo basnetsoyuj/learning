@@ -20,11 +20,13 @@ A curated and personal to-do learning list for the things I want to learn and be
 - [ ] [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)
 - [ ] [Hands on Machine Learning with Scikit Learn Keras and TensorFlow 2nd Edition](https://github.com/loveunk/Deep-learning-books/blob/master/1.%20Machine%20Leaning%20and%20Deep%20Learning/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20Keras%20and%20TensorFlow%202nd%20Edition-2019.pdf)
 - [ ] [Introduction to Algorithms](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf)
+- [ ] :hourglass: [Information Theory, Inference and Learning Algorithms](https://www.amazon.com/Information-Theory-Inference-Learning-Algorithms/dp/0521642981)
 
 ## Mathematics Books
-- [ ] :hourglass: [Mathematical Methods For Physics and Engineering](https://luiarthur.github.io/assets/ams211/mathbook.pdf)
+- [ ] [Mathematical Methods For Physics and Engineering](https://luiarthur.github.io/assets/ams211/mathbook.pdf)
 - [ ] [Infinite Powers: How Calculus Reveals the Secrets of the Universe](https://www.amazon.com/Infinite-Powers-Calculus-Reveals-Universe/dp/1328879984)
 - [ ] [The Mathematical Mechanic: Using Physical Reasoning to Solve Problems](https://www.amazon.com/Mathematical-Mechanic-Physical-Reasoning-Problems/dp/0691154562)
+- [ ] [The Art Of Probability](https://www.amazon.com/Art-Probability-Richard-W-Hamming/dp/0201406861)
 
 ## Physics Books
 - [ ] [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)
@@ -68,6 +70,7 @@ A curated and personal to-do learning list for the things I want to learn and be
 ## Data Science
 - [ ] :hourglass: [Book: The Art of Statistics: Learning from Data](https://www.amazon.com/Art-Statistics-Learning-Pelican-Books-ebook/dp/B07HQDJD99)
 - [ ] [Book: Practical Statistics for Data Scientists](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/1491952962)
+- [ ] [Book: Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 - [ ] [Article: Modern Pandas](https://tomaugspurger.github.io)
     - [ ] [Modern Pandas (Part 1)](https://tomaugspurger.github.io/modern-1-intro.html)
     - [ ] [Modern Pandas (Part 2)](https://tomaugspurger.github.io/method-chaining.html)
