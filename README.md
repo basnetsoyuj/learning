@@ -496,3 +496,4 @@ A curated and personal to-do learning list for the things I want to learn and be
 - [ ] [Paper: Deep Learning Based Text Classification: A Comprehensive Review](https://arxiv.org/abs/2004.03705)
 - [X] [Paper: Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
 - [X] [Paper: End-to-End Object Detection with Transformers](https://arxiv.org/pdf/2005.12872.pdf)
+- [ ] [AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE](https://t.co/uGTA7br5Bv?amp=1)
