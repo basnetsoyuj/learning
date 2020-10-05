@@ -429,6 +429,8 @@ A curated and personal to-do learning list for the things I want to learn and be
 	- [ ] [CS231n Winter 2016: Lecture 15: Invited Talk by Jeff Dean](https://www.youtube.com/watch?v=T7YkPWpwFD4) `1:14:49`
 - [ ] [Udacity: Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
 - [ ] [Youtube: Deep Residual Learning for Image Recognition (Paper Explained)](https://www.youtube.com/watch?v=GWt6Fu05voI)
+- [ ] [Youtube: DETR: End-to-End Object Detection with Transformers (Paper Explained)](https://www.youtube.com/watch?v=T35ba_VXkMY)
+- [ ] [Youtube: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (Paper Explained)](https://www.youtube.com/watch?v=TrdevFK_am4)
 - [ ] [Youtube: Implementing ResNet from scratch](https://www.youtube.com/playlist?list=PLbMqOoYQ3MxywF4R6MOJO7i9jFEeSGSSC)
 - [ ] [Youtube: ConvNets Scaled Efficiently](https://www.youtube.com/watch?v=fC39F8AqPo0) `0:13:19`
 - [ ] [Youtube: Building an Image Captioner with Neural Networks](https://www.youtube.com/watch?v=c_bVBYxX5EU) `0:12:54`
