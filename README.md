@@ -4,7 +4,7 @@
 
 A curated and personal to-do learning list for the things I want to learn and be better at.
 
->**Note: :hourglass: refers to the things I am currently focused on learning.**
+>**Note: :hourglass: denotes things I am currently focused on learning.**
 
 ## Docker
 - [X] [Docker for the Absolute Beginner - Hands On](https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on)
@@ -32,7 +32,8 @@ A curated and personal to-do learning list for the things I want to learn and be
 - [ ] [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)
     - [X] [Volume I](https://www.feynmanlectures.caltech.edu/I_toc.html)
     - [ ] [Volume II](https://www.feynmanlectures.caltech.edu/II_toc.html) 
-    - [ ] [Volume III](https://www.feynmanlectures.caltech.edu/III_toc.html) 
+    - [ ] [Volume III](https://www.feynmanlectures.caltech.edu/III_toc.html)
+- [ ] [A New Kind of Science](https://www.wolframscience.com/nks/)
 
 ## Be Better At Using Command Line
 - [ ] [Bash Academy](http://guide.bash.academy)
