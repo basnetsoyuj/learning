@@ -458,6 +458,8 @@ A curated and personal to-do learning list for the things I want to learn and be
   - [X] [Brian Kernighan: UNIX, C, AWK, AMPL, and Go Programming](https://youtu.be/O9upVbGSBFo)
   - [X] [Ilya Sutskever: Deep Learning](https://youtu.be/13CZPWmke6A)
   - [X] [Grant Sanderson: Math, Manim, Neural Networks & Teaching with 3Blue1Brown](https://youtu.be/U_6AYX42gkU)
+  - [X] [Stephen Wolfram: Cellular Automata, Computation, and Physics](https://youtu.be/ez773teNFYA)
+  - [ ] [Stephen Wolfram: Fundamental Theory of Physics, Life, and the Universe](https://youtu.be/-t1_ffaFXao)
   
 ## Research Papers
 - [X] [Cut, Paste and Learn: Surprisingly Easy Synthesis for Instance Detection](https://arxiv.org/pdf/1708.01642.pdf)
