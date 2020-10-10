@@ -34,6 +34,7 @@ A curated and personal to-do learning list for the things I want to learn and be
     - [ ] [Volume II](https://www.feynmanlectures.caltech.edu/II_toc.html) 
     - [ ] [Volume III](https://www.feynmanlectures.caltech.edu/III_toc.html)
 - [ ] [A New Kind of Science](https://www.wolframscience.com/nks/)
+- [ ] [A Project to Find the Fundamental Theory of Physics](https://www.amazon.com/Project-Find-Fundamental-Theory-Physics/dp/1579550355)
 
 ## Be Better At Using Command Line
 - [ ] [Bash Academy](http://guide.bash.academy)
