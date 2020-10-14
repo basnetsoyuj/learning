@@ -450,6 +450,8 @@ A curated and personal to-do learning list for the things I want to learn and be
 
 ## Learn From The Great
 - [ ] :hourglass: [Artificial Intelligence (AI) Podcast](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
+  - [X] [Elon Musk: Tesla Autopilot](https://youtu.be/dEv99vxKjVI)
+  - [X] [Elon Musk: Neuralink, AI, Autopilot, and the Pale Blue Dot](https://youtu.be/smK9dgdTl40)
   - [X] [Jeremy Howard: fast.ai Deep Learning Courses and Research](https://youtu.be/J6XcP4JOHmk)
   - [X] [David Silver: AlphaGo, AlphaZero, and Deep Reinforcement Learning](https://youtu.be/uPUEq8d73JI)
   - [X] [George Hotz: Comma.ai, OpenPilot, and Autonomous Vehicles](https://youtu.be/iwcYp-XT7UI)
