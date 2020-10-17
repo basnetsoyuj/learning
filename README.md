@@ -449,7 +449,7 @@ A curated and personal to-do learning list for the things I want to learn and be
 - [ ] [Youtube: Generative Adversarial Networks - FUTURISTIC & FUN AI !](https://www.youtube.com/watch?v=O8LAi6ksC80) `0:14:20`
 
 ## Learn From The Great
-- [ ] :hourglass: [Artificial Intelligence (AI) Podcast](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
+- [ ] [Artificial Intelligence (AI) Podcast](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
   - [X] [Elon Musk: Tesla Autopilot](https://youtu.be/dEv99vxKjVI)
   - [X] [Elon Musk: Neuralink, AI, Autopilot, and the Pale Blue Dot](https://youtu.be/smK9dgdTl40)
   - [X] [Jeremy Howard: fast.ai Deep Learning Courses and Research](https://youtu.be/J6XcP4JOHmk)
@@ -463,7 +463,8 @@ A curated and personal to-do learning list for the things I want to learn and be
   - [X] [Ilya Sutskever: Deep Learning](https://youtu.be/13CZPWmke6A)
   - [X] [Grant Sanderson: Math, Manim, Neural Networks & Teaching with 3Blue1Brown](https://youtu.be/U_6AYX42gkU)
   - [X] [Stephen Wolfram: Cellular Automata, Computation, and Physics](https://youtu.be/ez773teNFYA)
-  - [ ] [Stephen Wolfram: Fundamental Theory of Physics, Life, and the Universe](https://youtu.be/-t1_ffaFXao)
+  - [X] [Stephen Wolfram: Fundamental Theory of Physics, Life, and the Universe](https://youtu.be/-t1_ffaFXao)
+  - [X] [Scott Aaronson: Quantum Computing](https://youtu.be/uX5t8EivCaM)
   
 ## Research Papers
 - [X] [Cut, Paste and Learn: Surprisingly Easy Synthesis for Instance Detection](https://arxiv.org/pdf/1708.01642.pdf)
