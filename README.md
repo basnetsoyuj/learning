@@ -465,6 +465,7 @@ A curated and personal to-do learning list for the things I want to learn and be
   - [X] [Stephen Wolfram: Cellular Automata, Computation, and Physics](https://youtu.be/ez773teNFYA)
   - [X] [Stephen Wolfram: Fundamental Theory of Physics, Life, and the Universe](https://youtu.be/-t1_ffaFXao)
   - [X] [Scott Aaronson: Quantum Computing](https://youtu.be/uX5t8EivCaM)
+  - [X] [Chris Lattner: The Future of Computing and Programming Languages](https://youtu.be/nWTvXbQHwWs)
   
 ## Research Papers
 - [X] [Cut, Paste and Learn: Surprisingly Easy Synthesis for Instance Detection](https://arxiv.org/pdf/1708.01642.pdf)
