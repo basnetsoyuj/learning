@@ -22,6 +22,7 @@ A curated and personal to-do learning list for the things I want to learn and be
 - [ ] [Introduction to Algorithms](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf)
 - [ ] :hourglass: [Information Theory, Inference and Learning Algorithms](https://www.amazon.com/Information-Theory-Inference-Learning-Algorithms/dp/0521642981)
 - [ ] [Quantum Computing Since Democritus](https://www.amazon.com/Quantum-Computing-since-Democritus-Aaronson/dp/0521199565)
+- [ ] :hourglass: [Probabilistic Graphical Models](https://djsaunde.github.io/read/books/pdfs/probabilistic%20graphical%20models.pdf)
 
 ## Mathematics Books
 - [ ] [Mathematical Methods For Physics and Engineering](https://luiarthur.github.io/assets/ams211/mathbook.pdf)
