@@ -70,6 +70,8 @@ A curated and personal to-do learning list for the things I want to learn and be
 ## Text Editor
 - [ ] :hourglass: [VIM GENIUS](http://www.vimgenius.com/)
 - [ ] [Mastering Pycharm](https://www.amazon.com/Mastering-PyCharm-Quazi-Nafiul-Islam-ebook/dp/B00YSIKR3A)
+- [ ] [YouTube Playlist: PyCharm Quick Tips ans Tricks](https://www.youtube.com/playlist?list=PLCTHcU1KoD99eyuXqUJHZy90-9jU2H2Y2)
+- [ ] [Youtube: 42 PyCharm Tips and Tricks](https://youtu.be/NoDx0MEESDw?list=PLQ176FUIyIUbDwdvWZNuB7FrCc6hHregy)
 
 ## Data Science
 - [ ] :hourglass: [Book: The Art of Statistics: Learning from Data](https://www.amazon.com/Art-Statistics-Learning-Pelican-Books-ebook/dp/B07HQDJD99)
