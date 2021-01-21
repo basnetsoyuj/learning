@@ -360,6 +360,13 @@ A curated and personal to-do learning list for the things I want to learn and be
 	- [ ] [NLP Tutorial  with TextBlob &  Python - Sentiment Analysis(Polarity,Subjectivity)](https://www.youtube.com/watch?v=dR9Dcq-qgIE) `0:06:31`
 	- [ ] [Building a NLP-based Flask App with TextBlob](https://www.youtube.com/watch?v=7tLBHkqMae8) `0:37:30`
 	- [ ] [Natural Language Processing with Polyglot - Installation & Intro](https://www.youtube.com/watch?v=qtMEp6WxwCQ) `0:12:49`
+- [ ] [Article: Attention? An Other Perspective!:](https://learningturtle.github.io/Blog/posts/attention_another_perspective/)
+    - [ ] [Part 1](https://learningturtle.github.io/Blog/posts/attention_another_perspective/)
+    - [ ] [Part 2](https://learningturtle.github.io/Blog/posts/attention_another_perspective_part2/)
+    - [ ] [Part 3](https://learningturtle.github.io/Blog/posts/attention_another_perspective_part3/)
+    - [ ] [Part 4](https://learningturtle.github.io/Blog/posts/attention_another_perspective_part4/)
+    - [ ] [Part 5](https://learningturtle.github.io/Blog/posts/attention_another_perspective_part5/)
+
 
 ## Unsupervised Learning
 - [ ] [Article: Grouping data points with k-means clustering](https://www.jeremyjordan.me/grouping-data-points-with-k-means-clustering/)
