@@ -479,6 +479,10 @@ A curated and personal to-do learning list for the things I want to learn and be
   - [X] [Daphne Koller: Biomedicine and Machine Learning](https://youtu.be/xlMTWfkQqbY) 
   
 ## Research Papers
+- [ ] [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf)
+- [ ] [YOLO9000: Better, Faster, Stronger](https://arxiv.org/pdf/1612.08242.pdf)
+- [ ] [YOLOv3: An Incremental Improvement](https://arxiv.org/pdf/1804.02767.pdf)
+- [ ] [YOLOv4: Optimal Speed and Accuracy of Object Detection](https://arxiv.org/pdf/2004.10934.pdf)
 - [X] [Cut, Paste and Learn: Surprisingly Easy Synthesis for Instance Detection](https://arxiv.org/pdf/1708.01642.pdf)
 - [X] [Paper: Mastering the game of Go with deep neural networks and tree search](https://vk.com/doc-44016343_437229031?dl=56ce06e325d42fbc72)
 - [X] [Paper: Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/pdf/1712.01815.pdf)
