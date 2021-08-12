@@ -1,0 +1,21 @@
+## Miscellaneous
+
+## Podcasts
+- [ ] [Artificial Intelligence (AI) Podcast](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
+  - [X] [Elon Musk: Tesla Autopilot](https://youtu.be/dEv99vxKjVI)
+  - [X] [Elon Musk: Neuralink, AI, Autopilot, and the Pale Blue Dot](https://youtu.be/smK9dgdTl40)
+  - [X] [Jeremy Howard: fast.ai Deep Learning Courses and Research](https://youtu.be/J6XcP4JOHmk)
+  - [X] [David Silver: AlphaGo, AlphaZero, and Deep Reinforcement Learning](https://youtu.be/uPUEq8d73JI)
+  - [X] [George Hotz: Comma.ai, OpenPilot, and Autonomous Vehicles](https://youtu.be/iwcYp-XT7UI)
+  - [X] [Andrew Ng: Deep Learning, Education, and Real-World AI](https://youtu.be/0jspaMLxBig)
+  - [X] [Ian Goodfellow: Generative Adversarial Networks (GANs)](https://youtu.be/Z6rxFNMGdn0)
+  - [X] [Grant Sanderson: 3Blue1Brown and the Beauty of Mathematics](https://youtu.be/U_lKUK2MCsg)
+  - [X] [Garry Kasparov: Chess, Deep Blue, AI, and Putin](https://youtu.be/8RVa0THWUWw)
+  - [X] [Brian Kernighan: UNIX, C, AWK, AMPL, and Go Programming](https://youtu.be/O9upVbGSBFo)
+  - [X] [Ilya Sutskever: Deep Learning](https://youtu.be/13CZPWmke6A)
+  - [X] [Grant Sanderson: Math, Manim, Neural Networks & Teaching with 3Blue1Brown](https://youtu.be/U_6AYX42gkU)
+  - [X] [Stephen Wolfram: Cellular Automata, Computation, and Physics](https://youtu.be/ez773teNFYA)
+  - [X] [Stephen Wolfram: Fundamental Theory of Physics, Life, and the Universe](https://youtu.be/-t1_ffaFXao)
+  - [X] [Scott Aaronson: Quantum Computing](https://youtu.be/uX5t8EivCaM)
+  - [X] [Chris Lattner: The Future of Computing and Programming Languages](https://youtu.be/nWTvXbQHwWs)
+  - [X] [Daphne Koller: Biomedicine and Machine Learning](https://youtu.be/xlMTWfkQqbY) 

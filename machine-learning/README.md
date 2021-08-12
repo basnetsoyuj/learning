@@ -1,0 +1,340 @@
+# Machine Learning
+
+## Data Science
+- [ ] [Book: The Art of Statistics: Learning from Data](https://www.amazon.com/Art-Statistics-Learning-Pelican-Books-ebook/dp/B07HQDJD99)
+- [ ] [Book: Practical Statistics for Data Scientists](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/1491952962)
+- [ ] [Book: Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+- [ ] [Article: Modern Pandas](https://tomaugspurger.github.io)
+    - [ ] [Modern Pandas (Part 1)](https://tomaugspurger.github.io/modern-1-intro.html)
+    - [ ] [Modern Pandas (Part 2)](https://tomaugspurger.github.io/method-chaining.html)
+    - [ ] [Modern Pandas (Part 3)](https://tomaugspurger.github.io/modern-3-indexes.html)
+    - [ ] [Modern Pandas (Part 4)](https://tomaugspurger.github.io/modern-4-performance.html)
+    - [ ] [Modern Pandas (Part 5)](https://tomaugspurger.github.io/modern-5-tidy.html)
+    - [ ] [Modern Pandas (Part 6)](https://tomaugspurger.github.io/modern-6-visualization.html)
+    - [ ] [Modern Pandas (Part 7)](https://tomaugspurger.github.io/modern-7-timeseries.html)
+    - [ ] [Modern Pandas (Part 8)](https://tomaugspurger.github.io/modern-8-scaling.html)
+
+## Artificial Intelligence
+- [ ] [fast.ai online courses](https://www.fast.ai/)
+	- [ ] [Fast.ai: Deep Learning for Coders (2020)](https://course.fast.ai/)
+	    - [X] [Lesson 1](https://course.fast.ai/videos/?lesson=1)
+	    - [X] [Lesson 2](https://course.fast.ai/videos/?lesson=2)
+	    - [X] [Lesson 3](https://course.fast.ai/videos/?lesson=3)
+	    - [X] [Lesson 4](https://course.fast.ai/videos/?lesson=4)
+	    - [ ] [Lesson 5](https://course.fast.ai/videos/?lesson=5)
+	    - [ ] [Lesson 6](https://course.fast.ai/videos/?lesson=6)
+	    - [ ] [Lesson 7](https://course.fast.ai/videos/?lesson=7)
+	    - [ ] [Lesson 8](https://course.fast.ai/videos/?lesson=8)
+- [ ] [YouTube Video: DeepMind x UCL Deep Learning Series 2020](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
+- [ ] [Full Stack Deep Learning Bootcamp](https://fullstackdeeplearning.com/march2019)
+- [X] [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
+- [X] [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network)
+- [ ] [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
+- [X] [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
+- [ ] [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
+
+## PyTorch
+- [ ] [Book: Deep Learning with PyTorch](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
+- [ ] [Article: An introduction to PyTorch Lightning with comparisons to PyTorch](https://amaarora.github.io/2020/07/12/oganized-pytorch.html)
+- [ ] [Datacamp: Introduction to Deep Learning with PyTorch](https://www.datacamp.com/courses/deep-learning-with-pytorch)
+- [ ] [Deeplizard: Neural Network Programming - Deep Learning with PyTorch](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
+- [ ] [Udacity: Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)
+- [ ] [Youtube: PyTorch Lightning 101](https://www.youtube.com/playlist?list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2)
+  - [ ] [Training a classification model on MNIST with PyTorch](https://youtu.be/OMDn66kM9Qc?list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2)
+  - [ ] [From PyTorch to PyTorch Lightning](https://youtu.be/DbESHcCoWbM?list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2)
+  
+### NLP
+- [ ] [Article: The Transformer Explained](https://nostalgebraist.tumblr.com/post/185326092369/the-transformer-explained)
+- [ ] [Article: The Annotated GPT-2](https://amaarora.github.io/2020/02/18/annotatedGPT2.html)
+- [ ] [Article: Introduction to recurrent neural networks](https://www.jeremyjordan.me/introduction-to-recurrent-neural-networks/)
+- [ ] [Article: Aspect-Based Opinion Mining (NLP with Python)](https://medium.com/@pmin91/aspect-based-opinion-mining-nlp-with-python-a53eb4752800)
+- [ ] [A friendly introduction to Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg)
+- [ ] [Coursera: Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
+- [ ] [Coursera: Natural Language Processing in TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow)
+- [ ] [CMU: Low-resource NLP Bootcamp 2020](https://www.youtube.com/playlist?list=PL8PYTP1V4I8A1CpCzURXAUa6H4HO7PF2c)
+	- [ ] [CMU Low resource NLP Bootcamp 2020 (1): NLP Tasks](https://www.youtube.com/watch?v=glIbcpay1-I) `1:46:06`
+	- [ ] [CMU Low resource NLP Bootcamp 2020 (2): Linguistics - Phonology and Morphology](https://www.youtube.com/watch?v=KGOYGONxypA) `1:24:08`
+	- [ ] [CMU Low resource NLP Bootcamp 2020 (3): Machine Translation](https://www.youtube.com/watch?v=SIZfkGzyVRc) `1:55:59`
+	- [ ] [CMU Low resource NLP Bootcamp 2020 (4): Linguistics - Syntax and Morphosyntax](https://www.youtube.com/watch?v=j2vd3bTfrIA) `2:00:21`
+	- [ ] [CMU Low resource NLP Bootcamp 2020 (5): Neural Representation Learning](https://www.youtube.com/watch?v=FgYg1ZH5Io8) `1:19:57`
+	- [ ] [CMU Low resource NLP Bootcamp 2020 (6): Multilingual NLP](https://www.youtube.com/watch?v=wWE4db9XgHA) `2:04:34`
+	- [ ] [CMU Low resource NLP Bootcamp 2020 (7): Speech Synthesis](https://www.youtube.com/watch?v=eDjtEsOvouM) `2:22:14`
+	- [ ] [CMU Low resource NLP Bootcamp 2020 (8): Speech Recognition](https://www.youtube.com/watch?v=XDnUHu6PAqA) `2:16:18`
+- [ ] [CMU: Neural Nets for NLP 2020](https://www.youtube.com/playlist?list=PL8PYTP1V4I8CJ7nMxMC8aXv8WqKYwj-aJ)
+	- [ ] [CMU Neural Nets for NLP 2020 (1): Introduction](https://www.youtube.com/watch?v=D7o2Z1tAuQc) `1:11:38`
+	- [ ] [CMU Neural Nets for NLP 2020 (2): Language Modeling, Efficiency/Training Tricks](https://www.youtube.com/watch?v=aTxfVIzyN4o) `1:18:31`
+	- [ ] [CMU Neural Nets for NLP 2020 (3): Convolutional Neural Networks for Text](https://www.youtube.com/watch?v=UirRyzNq3nM) `0:54:45`
+	- [ ] [CMU Neural Nets for NLP 2020 (4): Recurrent Neural Networks](https://www.youtube.com/watch?v=wD-mB2clN_0) `1:11:28`
+	- [ ] [CMU Neural Nets for NLP 2020 (5): Efficiency Tricks for Neural Nets](https://www.youtube.com/watch?v=eokkF3qv8_U) `1:05:37`
+	- [ ] [CMU Neural Nets for NLP 2020 (7): Attention](https://www.youtube.com/watch?v=jDaJYOmF2iQ) `1:05:26`
+	- [ ] [CMU Neural Nets for NLP 2020 (8): Distributional Semantics and Word Vectors](https://www.youtube.com/watch?v=RRaU7pz2eT4) `1:10:45`
+	- [ ] [CMU Neural Nets for NLP 2020 (9): Sentence and Contextual Word Representations](https://www.youtube.com/watch?v=EjoTMiZPVC8) `1:16:19`
+	- [ ] [CMU Neural Nets for NLP 2020 (10): Debugging Neural Nets (for NLP)](https://www.youtube.com/watch?v=-I-3qRg3ExI) `1:15:26`
+	- [ ] [CMU Neural Nets for NLP 2020 (11): Structured Prediction with Local Independence Assumptions](https://www.youtube.com/watch?v=ry-__6gNSqE) `1:08:38`
+	- [ ] [CMU Neural Nets for NLP 2020 (12): Generating Trees Incrementally](https://www.youtube.com/watch?v=-bG-QfVrsYw) `1:14:13`
+	- [ ] [CMU Neural Nets for NLP 2020 (13): Generating Trees Incrementally](https://www.youtube.com/watch?v=8f_IzoafNgc) `0:51:58`
+	- [ ] [CMU Neural Nets for NLP 2020 (14): Search-based Structured Prediction](https://www.youtube.com/watch?v=9OA8IybwI00) `1:06:19`
+	- [ ] [CMU Neural Nets for NLP 2020 (15): Minimum Risk Training and Reinforcement Learning](https://www.youtube.com/watch?v=W_x7BL-8VZc) `1:09:16`
+	- [ ] [CMU Neural Nets for NLP 2020 (16): Advanced Search Algorithms](https://www.youtube.com/watch?v=mfOCPBOHVjY) `1:03:02`
+	- [ ] [CMU Neural Nets for NLP 2020 (17): Adversarial Methods](https://www.youtube.com/watch?v=4SjdBB64mjo) `1:14:55`
+	- [ ] [CMU Neural Nets for NLP 2020 (18): Models w/ Latent Random Variables](https://www.youtube.com/watch?v=5OL1_YECHvM) `1:13:16`
+	- [ ] [CMU Neural Nets for NLP 2020 (19): Unsupervised and Semi-supervised Learning of Structure](https://www.youtube.com/watch?v=rpAzfgr3OGc) `1:12:47`
+	- [ ] [CMU Neural Nets for NLP 2020 (20): Multitask and Multilingual Learning](https://www.youtube.com/watch?v=6_gMeW_cunQ) `1:02:46`
+	- [ ] [CMU Neural Nets for NLP 2020 (21): Document Level Models](https://www.youtube.com/watch?v=K72U5dlPwkY) `0:52:04`
+	- [ ] [CMU Neural Nets for NLP 2020 (22): Neural Nets + Knowledge Bases](https://www.youtube.com/watch?v=Lcb5YKE21P8) `1:18:39`
+	- [ ] [CMU Neural Nets for NLP 2020 (23): Machine Reading w/ Neural Nets](https://www.youtube.com/watch?v=cGHVNwgVLRY) `1:06:11`
+	- [ ] [CMU Neural Nets for NLP 2020 (24): Natural Language Generation](https://www.youtube.com/watch?v=dyXTVhDCwCQ) `1:21:48`
+	- [ ] [CMU Neural Nets for NLP 2020 (25): Model Interpretation](https://www.youtube.com/watch?v=ePEJqqj7Y8M) `1:04:11`
+- [ ] [Datacamp: Advanced NLP with spaCy](https://www.datacamp.com/courses/advanced-nlp-with-spacy)
+- [ ] [Datacamp: Building Chatbots in Python](https://www.datacamp.com/courses/building-chatbots-in-python)
+- [ ] [Datacamp: Clustering Methods with SciPy](https://www.datacamp.com/courses/clustering-methods-with-scipy)
+- [ ] [Datacamp: Feature Engineering for NLP in Python](https://www.datacamp.com/courses/feature-engineering-for-nlp-in-python)
+- [ ] [Datacamp: Machine Translation in Python](https://www.datacamp.com/courses/machine-translation-in-python)
+- [ ] [Datacamp: Natural Language Processing Fundamentals in Python](https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python)
+- [ ] [Datacamp: Natural Language Generation in Python](https://www.datacamp.com/courses/natural-language-generation-in-python)
+- [ ] [Datacamp: RNN for Language Modeling](https://www.datacamp.com/courses/recurrent-neural-networks-for-language-modeling-in-python)
+- [ ] [Datacamp: Regular Expressions in Python](https://www.datacamp.com/courses/regular-expressions-in-python)
+- [ ] [Datacamp: Sentiment Analysis in Python](https://www.datacamp.com/courses/sentiment-analysis-in-python)
+- [ ] [Datacamp: Spoken Language Processing in Python](https://www.datacamp.com/courses/spoken-language-processing-in-python)
+- [ ] [fast.ai Code-First Intro to Natural Language Processing](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9)
+- [ ] [RNN and LSTM](https://www.youtube.com/watch?v=WCUNPb-5EYI&index=2&list=PLVZqlMpoM6kbaeySxhdtgQPFEC5nV7Faa&t=0s)
+- [ ] [Spacy Tutorial](https://www.youtube.com/watch?v=cgwDB1THUBY&list=PLJ39kWiJXSiz1LK8d_fyxb7FTn4mBYOsD)
+- [ ] [Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)
+	- [ ] [Lecture 1  – Course Overview | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=tZ_Jrc_nRJY) `1:12:59`
+	- [ ] [Lecture 2  – Word Vectors 1 | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=IYMYI9AJpQs) `1:17:10`
+	- [ ] [Lecture 3  – Word Vectors 2 | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=nH4rn3X8i0c) `1:16:52`
+	- [ ] [Lecture 4  – Word Vectors 3 | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=pip8h9vjTHY) `0:38:20`
+	- [ ] [Lecture 5 – Sentiment Analysis 1 | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=O1Xh3H1uEYY) `1:10:44`
+	- [ ] [Lecture 6 – Sentiment Analysis 2 | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=6-4pJt1M18s) `1:03:23`
+	- [ ] [Lecture 7 – Relation Extraction | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=pO3Jsr31s_Q) `1:19:04`
+	- [ ] [Lecture 8 – NLI 1 | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=M_VPUF9ResU) `1:15:02`
+	- [ ] [Lecture 9 – NLI 2 | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=JXtH_ABQFX0) `1:15:35`
+	- [ ] [Lecture 10 – Grounding | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=7b2_3dDTKMc) `1:23:15`
+	- [ ] [Lecture 11 – Semantic Parsing | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=C5bdflsg7rs) `1:07:05`
+	- [ ] [Lecture 12 – Evaluation Methods | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=3UGti9Ju5j8) `1:18:32`
+	- [ ] [Lecture 13 – Evaluation Metrics | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=YygGzfkhtJc) `1:11:32`
+	- [ ] [Lecture 14 – Contextual Vectors | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=lzBB7xoZ3Q8) `1:14:33`
+	- [ ] [Lecture 15 – Presenting Your Work | Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/watch?v=WXLb4h2A724) `1:15:11`
+- [ ] [Stanford CS224N: Stanford CS224N: NLP with Deep Learning | Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 1 – Introduction and Word Vectors](https://www.youtube.com/watch?v=8rXD5-xhemo) `1:21:52`
+	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 2 – Word Vectors and Word Senses](https://www.youtube.com/watch?v=kEMJRjEdNzM) `1:20:43`
+	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 3 – Neural Networks](https://www.youtube.com/watch?v=8CWyBNX6eDo) `1:18:50`
+	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 4 – Backpropagation](https://www.youtube.com/watch?v=yLYHDSv-288) `1:22:15`
+	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 5 – Dependency Parsing](https://www.youtube.com/watch?v=nC9_RfjYwqA) `1:20:22`
+	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 6 – Language Models and RNNs](https://www.youtube.com/watch?v=iWea12EAu6U) `1:08:25`
+	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 7 – Vanishing Gradients, Fancy RNNs](https://www.youtube.com/watch?v=QEw0qEa0E50) `1:13:23`
+	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 8 – Translation, Seq2Seq, Attention](https://www.youtube.com/watch?v=XXtpJxZBa2c) `1:16:56`
+	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 9 – Practical Tips for Projects](https://www.youtube.com/watch?v=fyqm8fRDgl0) `1:22:39`
+	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 10 – Question Answering](https://www.youtube.com/watch?v=yIdF-17HwSk) `1:21:01`
+	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 11 – Convolutional Networks for NLP](https://www.youtube.com/watch?v=EAJoRA0KX7I) `1:20:18`
+	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 12 – Subword Models](https://www.youtube.com/watch?v=9oTHFx0Gg3Q) `1:15:30`
+	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 13 – Contextual Word Embeddings](https://www.youtube.com/watch?v=S-CspeZ8FHc) `1:20:18`
+	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 14 – Transformers and Self-Attention](https://www.youtube.com/watch?v=5vcj8kSwBCY) `0:53:48`
+	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 15 – Natural Language Generation](https://www.youtube.com/watch?v=4uG1NMKNWCU) `1:19:37`
+	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 16 – Coreference Resolution](https://www.youtube.com/watch?v=i19m4GzBhfc) `1:19:20`
+	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 17 – Multitask Learning](https://www.youtube.com/watch?v=M8dsZsEtEsg) `1:11:54`
+	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 18 – Constituency Parsing, TreeRNNs](https://www.youtube.com/watch?v=6Z4A3RSf-HY) `1:20:37`
+	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 19 – Bias in AI](https://www.youtube.com/watch?v=XR8YSRcuVLE) `0:56:03`
+	- [ ] [Stanford CS224N: NLP with Deep Learning | Winter 2019 | Lecture 20 – Future of NLP + Deep Learning](https://www.youtube.com/watch?v=3wWZBGN-iX8) `1:19:15`
+- [ ] [TextBlob Tutorial Series](https://www.youtube.com/watch?v=4k2cqUIjb8g&list=PLJ39kWiJXSizrWpC7hcu1_mLNxEPzN0gF)
+	- [ ] [Natural Language Processing Tutorial With TextBlob -Tokens,Translation and Ngrams](https://www.youtube.com/watch?v=4k2cqUIjb8g) `0:11:01`
+	- [ ] [NLP Tutorial With TextBlob and Python - Parts of Speech Tagging](https://www.youtube.com/watch?v=aWhqoPLr6Jg) `0:05:59`
+	- [ ] [NLP Tutorial With TextBlob & Python - Lemmatizating](https://www.youtube.com/watch?v=tNUoqSlzM_k) `0:06:32`
+	- [ ] [NLP Tutorial  with TextBlob &  Python - Sentiment Analysis(Polarity,Subjectivity)](https://www.youtube.com/watch?v=dR9Dcq-qgIE) `0:06:31`
+	- [ ] [Building a NLP-based Flask App with TextBlob](https://www.youtube.com/watch?v=7tLBHkqMae8) `0:37:30`
+	- [ ] [Natural Language Processing with Polyglot - Installation & Intro](https://www.youtube.com/watch?v=qtMEp6WxwCQ) `0:12:49`
+- [ ] [Treehouse: Regular expression](https://teamtreehouse.com/library/regular-expressions-in-python)
+- [ ] [Youtube: fast.ai Code-First Intro to Natural Language Processing](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9)
+	- [ ] [What is NLP? (NLP video 1)](https://www.youtube.com/watch?v=cce8ntxP_XI) `0:22:42`
+	- [ ] [Topic Modeling with SVD & NMF (NLP video 2)](https://www.youtube.com/watch?v=tG3pUwmGjsc) `1:06:39`
+	- [ ] [Topic Modeling & SVD revisited (NLP video 3)](https://www.youtube.com/watch?v=lRZ4aMaXPBI) `0:33:05`
+	- [ ] [Sentiment Classification with Naive Bayes (NLP video 4)](https://www.youtube.com/watch?v=hp2ipC5pW4I) `0:58:20`
+	- [ ] [Sentiment Classification with Naive Bayes & Logistic Regression, contd. (NLP video 5)](https://www.youtube.com/watch?v=dt7sArnLo1g) `0:51:29`
+	- [ ] [Derivation of Naive Bayes & Numerical Stability (NLP video 6)](https://www.youtube.com/watch?v=z8-Tbrg1-rE) `0:23:56`
+	- [ ] [Revisiting Naive Bayes, and Regex (NLP video 7)](https://www.youtube.com/watch?v=Q1zLqfnEXdw) `0:37:33`
+	- [ ] [Intro to Language Modeling (NLP video 8)](https://www.youtube.com/watch?v=PNNHaQUQqW8) `0:40:58`
+	- [ ] [Transfer learning (NLP video 9)](https://www.youtube.com/watch?v=5gCQvuznKn0) `1:35:16`
+	- [ ] [ULMFit for non-English Languages (NLP Video 10)](https://www.youtube.com/watch?v=MDX_x6rKXAs) `1:49:22`
+	- [ ] [Understanding RNNs (NLP video 11)](https://www.youtube.com/watch?v=l1rlFh0PmZw) `0:33:16`
+	- [ ] [Seq2Seq Translation (NLP video 12)](https://www.youtube.com/watch?v=IfsjMg4fLWQ) `0:59:42`
+	- [ ] [Word embeddings quantify 100 years of gender & ethnic stereotypes-- Nikhil Garg (NLP video 13)](https://www.youtube.com/watch?v=boxV8Od4jqQ) `0:47:17`
+	- [ ] [Text generation algorithms (NLP video 14)](https://www.youtube.com/watch?v=3oEb_fFmPnY) `0:25:39`
+	- [ ] [Implementing a GRU (NLP video 15)](https://www.youtube.com/watch?v=Bl6WVj6wQaE) `0:23:13`
+	- [ ] [Algorithmic Bias (NLP video 16)](https://www.youtube.com/watch?v=pThqge9QDn8) `1:26:17`
+	- [ ] [Introduction to the Transformer (NLP video 17)](https://www.youtube.com/watch?v=AFkGPmU16QA) `0:22:54`
+	- [ ] [The Transformer for language translation (NLP video 18)](https://www.youtube.com/watch?v=KzfyftiH7R8) `0:55:17`
+	- [ ] [What you need to know about Disinformation (NLP video 19)](https://www.youtube.com/watch?v=vbva2RN-rbQ) `0:51:21`
+- [ ] [Youtube: BERT Research Series](https://www.youtube.com/playlist?list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6)
+- [ ] [YouTube: Intro to NLP with Spacy](https://www.youtube.com/playlist?list=PLBmcuObd5An559HbDr_alBnwVsGq-7uTF)
+- [ ] [Talk: Practical NLP for the Real World](https://www.infoq.com/presentations/practical-nlp/)
+- [ ] [YouTube: Level 3 AI Assistant Conference 2020](https://www.youtube.com/playlist?list=PL75e0qA87dlGP51yZ0dyNup-vwu0Rlv86)
+  - [ ] [Youtube: Conversation Analysis Theory in Chatbots | Michael Szul](https://youtu.be/osQChzuhUiU?list=PL75e0qA87dlGP51yZ0dyNup-vwu0Rlv86)
+  - [ ] [Youtube: Designing Practical NLP Solutions | Ines Montani](https://youtu.be/JpkzK58lkmA?list=PL75e0qA87dlGP51yZ0dyNup-vwu0Rlv86)
+  - [ ] [Youtube: Effective Copywriting for Chatbots | Hans Van Dam](https://youtu.be/49G58PQWO7w?list=LLqn7Nv8Zg6tWbBonrUOJGwQ)
+  - [ ] [Youtube: Distilling BERT | Sam Sucik](https://youtu.be/Xji8NmL3FvQ?list=LLqn7Nv8Zg6tWbBonrUOJGwQ)
+  - [ ] [Youtube: Transformer Policies that improve Dialogues: A Live Demo by Vincent Warmerdam](https://youtu.be/P5SUS3V50zQ?list=LLqn7Nv8Zg6tWbBonrUOJGwQ)
+  - [ ] [Youtube: From Research to Production – Our Process at Rasa | Tanja Bunk](https://youtu.be/5_lRfLFjfEs?list=LLqn7Nv8Zg6tWbBonrUOJGwQ)
+  - [ ] [Youtube: Keynote: Perspective on the 5 Levels of Conversational AI | Alan Nichol](https://youtu.be/bAkToyQhWyo?list=LLqn7Nv8Zg6tWbBonrUOJGwQ)
+- [ ] [Youtube: RASA Algorithm Whiteboard](https://www.youtube.com/playlist?list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb)
+	- [ ] [Introducing The Algorithm Whiteboard](https://www.youtube.com/watch?v=wWNMST6t1TA) `0:01:16`
+	- [ ] [Rasa Algorithm Whiteboard - Diet Architecture 1: How it Works](https://www.youtube.com/watch?v=vWStcJDuOUk) `0:23:27`
+	- [ ] [Rasa Algorithm Whiteboard - Diet Architecture 2: Design Decisions](https://www.youtube.com/watch?v=KUGGuJ0aTL8) `0:15:06`
+	- [ ] [Rasa Algorithm Whiteboard - Diet Architecture 3: Benchmarking](https://www.youtube.com/watch?v=oj5oPGDlep4) `0:22:34`
+	- [ ] [Rasa Algorithm Whiteboard - Embeddings 1: Just Letters](https://www.youtube.com/watch?v=mWvnlVw_LiY) `0:13:48`
+	- [ ] [Rasa Algorithm Whiteboard - Embeddings 2: CBOW and Skip Gram](https://www.youtube.com/watch?v=BWaHLmG1lak) `0:19:24`
+	- [ ] [Rasa Algorithm Whiteboard - Embeddings 3: GloVe](https://www.youtube.com/watch?v=QoUYlxl1RGI) `0:19:12`
+	- [ ] [Rasa Algorithm Whiteboard - Embeddings 4: Whatlies](https://www.youtube.com/watch?v=FwkwC7IJWO0) `0:14:03`
+	- [ ] [Rasa Algorithm Whiteboard - Attention 1: Self Attention](https://www.youtube.com/watch?v=yGTUuEx3GkA) `0:14:32`
+	- [ ] [Rasa Algorithm Whiteboard - Attention 2: Keys, Values, Queries](https://www.youtube.com/watch?v=tIvKXrEDMhk) `0:12:26`
+	- [ ] [Rasa Algorithm Whiteboard - Attention 3: Multi Head Attention](https://www.youtube.com/watch?v=23XUv0T9L5c) `0:10:55`
+	- [ ] [Rasa Algorithm Whiteboard: Attention 4 - Transformers](https://www.youtube.com/watch?v=EXNBy8G43MM) `0:14:34`
+	- [ ] [Rasa Algorithm Whiteboard - StarSpace](https://www.youtube.com/watch?v=ZT3_9Kjx7oI) `0:11:46`
+	- [ ] [Rasa Algorithm Whiteboard - TED Policy](https://www.youtube.com/watch?v=j90NvurJI4I) `0:16:10`
+	- [ ] [Rasa Algorithm Whiteboard - TED in Practice](https://www.youtube.com/watch?v=d8JMJMvErSg) `0:14:54`
+	- [ ] [Rasa Algorithm Whiteboard - Response Selection](https://www.youtube.com/watch?v=2jvyWngHEJM) `0:12:07`
+	- [ ] [Rasa Algorithm Whiteboard - Response Selection: Implementation](https://www.youtube.com/watch?v=0tXkFScW0hE) `0:09:25`
+	- [ ] [Rasa Algorithm Whiteboard - Countvectors](https://www.youtube.com/watch?v=Ju7l5ADg10U) `0:13:32`
+	- [ ] [Rasa Algorithm Whiteboard - Subword Embeddings](https://www.youtube.com/watch?v=kNw9dpzp5RU) `0:11:58`
+	- [ ] [Rasa Algorithm Whiteboard - Implementation of Subword Embeddings](https://www.youtube.com/watch?v=8D3Gamk1Jig) `0:10:01`
+	- [ ] [Rasa Algorithm Whiteboard - BytePair Embeddings](https://www.youtube.com/watch?v=-0IjF-7OB3s) `0:12:44`
+- [ ] [Youtube: A brief history of the Transformer architecture in NLP](https://www.youtube.com/watch?v=iH-wmtxHunk)
+- [ ] [Youtube: The Transformer neural network architecture explained. “Attention is all you need” (NLP)](https://www.youtube.com/watch?v=FWFA4DGuzSc)
+- [ ] [Youtube: How does a Transformer architecture combine Vision and Language? ViLBERT - NLP meets Computer Vision](https://www.youtube.com/watch?v=dd7nE4nbxN0)
+- [ ] [Youtube: Strategies for pre-training the BERT-based Transformer architecture – language (and vision)](https://www.youtube.com/watch?v=dabFOBE4eZI)
+- [ ] [Youtube: Ilya Sutskever - GPT-2](https://youtu.be/T0I88NhR_9M)
+- [ ] [Youtube: NLP Masterclass | Modeling Fallacies in NLP](https://youtu.be/f2m6Mon0VE8?t=223)
+- [ ] [Youtube: What is GPT-3? Showcase, possibilities, and implications](https://youtu.be/5fqxPOaaqi0)
+- [ ] [Youtube: TextAttack: A Framework for Data Augmentation and Adversarial Training in NLP](https://youtu.be/VpLAjOQHaLU?list=LLqn7Nv8Zg6tWbBonrUOJGwQ)
+- [ ] [Youtube: Learning to Rank: From Theory to Production - Malvina Josephidou & Diego Ceccarelli, Bloomberg](https://youtu.be/eMuepJpjUjI)
+- [ ] [Youtube: Learning "Learning to Rank"](https://youtu.be/7teudGhdnqo)
+- [ ] [Youtube: Learning to rank search results - Byron Voorbach & Jettro Coenradie [DevCon 2018]](https://youtu.be/TG7aNLgzIcM)
+- [ ] [Article: How the Embedding Layers in BERT Were Implemented](https://medium.com%2F@medium.com/@_init_/why-bert-has-3-embedding-layers-and-their-implementation-details-9c261108e28a)
+- [ ] [Youtube: Easy Data Augmentation for Text Classification](https://www.youtube.com/watch?v=3w92peJtYNQ&feature=youtu.be)
+- [ ] [Youtube: Webinar: Special NLP Session with Hugging Face](https://www.youtube.com/watch?v=SUqi_E_Lyjs)
+- [ ] [Youtube: BERT Neural Network - EXPLAINED!](https://www.youtube.com/watch?v=xI0HHN5XKDo) `0:11:36`
+- [ ] [Youtube: NLP with Neural Networks & Transformers](https://www.youtube.com/watch?v=BGKumht1qLA) `0:10:45`
+- [ ] [Youtube: Transformer Neural Networks - EXPLAINED! (Attention is all you need)](https://www.youtube.com/watch?v=TQQlZhbC5ps) `0:13:05`
+- [ ] [Youtube: LSTM Networks - EXPLAINED!](https://www.youtube.com/watch?v=QciIcRxJvsM) `0:16:12`
+- [ ] [Youtube: Recurrent Neural Networks - EXPLAINED!](https://www.youtube.com/watch?v=yZv_yRgOvMg) `0:17:05`
+- [ ] [Youtube: Attention in Neural Networks](https://www.youtube.com/watch?v=W2rWgXJBZhU) `0:11:18`
+- [ ] [Youtube: Spacy IRL 2019](https://www.youtube.com/playlist?list=PLBmcuObd5An4UC6jvK_-eSl6jCvP1gwXc)
+	- [ ] [Sebastian Ruder: Transfer Learning in Open-Source Natural Language Processing (spaCy IRL 2019)](https://www.youtube.com/watch?v=hNPwRPg9BrQ) `0:31:24`
+	- [ ] [Giannis Daras: Improving sparse transformer models for efficient self-attention (spaCy IRL 2019)](https://www.youtube.com/watch?v=KwKr_e7xBQ4) `0:20:13`
+	- [ ] [Peter Baumgartner: Applied NLP: Lessons from the Field (spaCy IRL 2019)](https://www.youtube.com/watch?v=QRGMJWwOU94) `0:18:44`
+	- [ ] [Justina Petraitytė: Lessons learned in helping ship conversational AI assistants (spaCy IRL 2019)](https://www.youtube.com/watch?v=1jI0mTcNRUU) `0:23:48`
+	- [ ] [Yoav Goldberg: The missing elements in NLP (spaCy IRL 2019)](https://www.youtube.com/watch?v=e12danHhlic) `0:30:27`
+	- [ ] [Sofie Van Landeghem: Entity linking functionality in spaCy (spaCy IRL 2019)](https://www.youtube.com/watch?v=PW3RJM8tDGo) `0:20:08`
+	- [ ] [Guadalupe Romero: Rethinking rule-based lemmatization (spaCy IRL 2019)](https://www.youtube.com/watch?v=88zcQODyuko) `0:14:49`
+	- [ ] [Mark Neumann: ScispaCy: A spaCy pipeline & models for scientific & biomedical text (spaCy IRL 2019)](https://www.youtube.com/watch?v=2_HSKDALwuw) `0:18:59`
+	- [ ] [Patrick Harrison: Financial NLP at S&P Global (spaCy IRL 2019)](https://www.youtube.com/watch?v=rdmaR4WRYEM) `0:21:42`
+	- [ ] [McKenzie Marshall: NLP in Asset Management (spaCy IRL 2019)](https://www.youtube.com/watch?v=kX14Ycieju8) `0:20:32`
+	- [ ] [David Dodson: spaCy in the News: Quartz's NLP pipeline (spaCy IRL 2019)](https://www.youtube.com/watch?v=azrVX8JksMU) `0:20:56`
+	- [ ] [Matthew Honnibal & Ines Montani: spaCy and Explosion: past, present & future (spaCy IRL 2019)](https://www.youtube.com/watch?v=Jk9y17lvltY) `0:54:13`
+- [ ] [Youtube: The Future of Natural Language Processing](https://youtu.be/G5lmya6eKtc)
+- [ ] [Youtube: Sentiment Analysis: Key Milestones, Challenges and New Directions](https://www.youtube.com/watch?v=YAqjf7to-lU)
+- [ ] [Youtube: Simple and Efficient Deep Learning for Natural Language Processing, with Moshe Wasserblat, Intel AI](https://www.youtube.com/watch?v=Bgr684dPJ6U)
+- [ ] [Youtube: Why not solve biological problems with a Transformer? BERTology meets Biology](https://www.youtube.com/watch?v=pFf4PltQ9LY)
+- [ ] [TextBlob Tutorial Series](https://www.youtube.com/watch?v=4k2cqUIjb8g&list=PLJ39kWiJXSizrWpC7hcu1_mLNxEPzN0gF)
+	- [ ] [Natural Language Processing Tutorial With TextBlob -Tokens,Translation and Ngrams](https://www.youtube.com/watch?v=4k2cqUIjb8g) `0:11:01`
+	- [ ] [NLP Tutorial With TextBlob and Python - Parts of Speech Tagging](https://www.youtube.com/watch?v=aWhqoPLr6Jg) `0:05:59`
+	- [ ] [NLP Tutorial With TextBlob & Python - Lemmatizating](https://www.youtube.com/watch?v=tNUoqSlzM_k) `0:06:32`
+	- [ ] [NLP Tutorial  with TextBlob &  Python - Sentiment Analysis(Polarity,Subjectivity)](https://www.youtube.com/watch?v=dR9Dcq-qgIE) `0:06:31`
+	- [ ] [Building a NLP-based Flask App with TextBlob](https://www.youtube.com/watch?v=7tLBHkqMae8) `0:37:30`
+	- [ ] [Natural Language Processing with Polyglot - Installation & Intro](https://www.youtube.com/watch?v=qtMEp6WxwCQ) `0:12:49`
+- [ ] [Article: Attention? An Other Perspective!:](https://learningturtle.github.io/Blog/posts/attention_another_perspective/)
+    - [ ] [Part 1](https://learningturtle.github.io/Blog/posts/attention_another_perspective/)
+    - [ ] [Part 2](https://learningturtle.github.io/Blog/posts/attention_another_perspective_part2/)
+    - [ ] [Part 3](https://learningturtle.github.io/Blog/posts/attention_another_perspective_part3/)
+    - [ ] [Part 4](https://learningturtle.github.io/Blog/posts/attention_another_perspective_part4/)
+    - [ ] [Part 5](https://learningturtle.github.io/Blog/posts/attention_another_perspective_part5/)
+
+
+## Unsupervised Learning
+- [ ] [Article: Grouping data points with k-means clustering](https://www.jeremyjordan.me/grouping-data-points-with-k-means-clustering/)
+- [ ] [Article: Soft clustering with Gaussian mixed models (EM)](https://www.jeremyjordan.me/gaussian-mixed-models/)
+- [ ] [Article: Introduction to autoencoders](https://www.jeremyjordan.me/autoencoders/)
+- [ ] [Article: Variational autoencoders](https://www.jeremyjordan.me/variational-autoencoders/)
+- [ ] [Article: Principal components analysis (PCA)](https://www.jeremyjordan.me/principal-components-analysis/)
+- [ ] [Article: Unsupervised Learning of Visual Features by Contrasting Cluster Assignments](https://medium.com/@nainaakash012/unsupervised-learning-of-visual-features-by-contrasting-cluster-assignments-fbedc8b9c3db)
+- [ ] [Berkeley: Deep Unsupervised Learning Spring 2020](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
+	- [ ] [L1 Introduction -- CS294-158-SP20 Deep Unsupervised Learning -- UC Berkeley, Spring 2020](https://www.youtube.com/watch?v=V9Roouqfu-M) `1:10:02`
+	- [ ] [L2 Autoregressive Models -- CS294-158-SP20 Deep Unsupervised Learning -- UC Berkeley, Spring 2020](https://www.youtube.com/watch?v=iyEOk8KCRUw) `2:27:23`
+	- [ ] [L3 Flow Models -- CS294-158-SP20 Deep Unsupervised Learning -- UC Berkeley -- Spring 2020](https://www.youtube.com/watch?v=JBb5sSC0JoY) `1:56:53`
+	- [ ] [L4 Latent Variable Models (VAE) -- CS294-158-SP20 Deep Unsupervised Learning -- UC Berkeley](https://www.youtube.com/watch?v=FMuvUZXMzKM) `2:19:33`
+	- [ ] [Lecture 5 Implicit Models -- GANs  Part I --- UC Berkeley, Spring 2020](https://www.youtube.com/watch?v=1CT-kxjYbFU) `2:32:32`
+	- [ ] [Lecture 6  Implicit Models / GANs part II --- CS294-158-SP20 Deep Unsupervised Learning -- Berkeley](https://www.youtube.com/watch?v=0W1dixJfKL4) `2:09:14`
+	- [ ] [Lecture 7 Self-Supervised Learning -- UC Berkeley Spring 2020 - CS294-158 Deep Unsupervised Learning](https://www.youtube.com/watch?v=dMUes74-nYY) `2:20:41`
+	- [ ] [L8 Round-up of Strengths and Weaknesses of Unsupervised Learning Methods -- UC Berkeley SP20](https://www.youtube.com/watch?v=1sJuWg5dULg) `0:41:51`
+	- [ ] [L9 Semi-Supervised Learning and Unsupervised Distribution Alignment -- CS294-158-SP20 UC Berkeley](https://www.youtube.com/watch?v=PXOhi6m09bA) `2:16:00`
+	- [ ] [L10 Compression -- UC Berkeley, Spring 2020, CS294-158 Deep Unsupervised Learning](https://www.youtube.com/watch?v=pPyOlGvWoXA) `3:09:49`
+	- [ ] [L11 Language Models -- guest instructor: Alec Radford (OpenAI) --- Deep Unsupervised Learning SP20](https://www.youtube.com/watch?v=BnpB3GrpsfM) `2:38:19`
+	- [ ] [L12 Representation Learning for Reinforcement Learning --- CS294-158 UC Berkeley Spring 2020](https://www.youtube.com/watch?v=YqvhDPd1UEw) `2:01:56`
+- [ ] [Datacamp: Customer Segmentation in Python](https://www.datacamp.com/courses/customer-segmentation-in-python)
+- [ ] [Google: Clustering](https://developers.google.com/machine-learning/clustering)
+- [ ] [Google: Recommendation Systems](https://developers.google.com/machine-learning/recommendation)
+- [ ] [Udacity: Segmentation and Clustering](https://www.udacity.com/course/segmentation-and-clustering--ud981)
+- [ ] [Youtube: BYOL: Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning (Paper Explained)](https://www.youtube.com/watch?v=YPfUiOMYOEE&feature=youtu.be)
+- [ ] [Youtube: A critical analysis of self-supervision, or what we can learn from a single image (Paper Explained)](https://youtu.be/l5he9JNJqHA)
+- [ ] [Youtube: Week 10 – Lecture: Self-supervised learning (SSL) in computer vision (CV)](https://www.youtube.com/watch?v=0KeR6i1_56g&feature=youtu.be)
+- [ ] [Youtube: CVPR 2020 Tutorial: Towards Annotation-Efficient Learning](https://youtu.be/MaGudzppu3I)
+- [ ] [Youtube: Yuki Asano | Self-Supervision | Self-Labelling | Labelling Unlabelled videos | CV | CTDS.Show #81](https://youtu.be/LPdbnasJ9wI)
+- [ ] [Youtube: Contrastive Clustering with SwAV](https://youtu.be/jCg97EAVsy8)
+- [ ] [Youtube: Variational Autoencoders - EXPLAINED!](https://www.youtube.com/watch?v=fcvYpzHmhvA) `0:17:36`
+- [ ] [Youtube: OptaProAnalyticsForum– Learning to watch football: Self-supervised representations for tracking data](https://youtu.be/H1iho17lnoI)
+- [ ] [Youtube: Can a Neural Net tell if an image is mirrored? – Visual Chirality](https://youtu.be/rbg1Mdo2LZM)
+- [ ] [Youtube: Deep InfoMax: Learning deep representations by mutual information estimation and maximization](https://www.youtube.com/watch?v=o1HIkn8LEsw)
+
+## Computer Vision
+### Be able to implement computer vision models
+- [ ] [Article: What is Focal Loss and when should you use it?](https://amaarora.github.io/2020/06/29/FocalLoss.html)
+- [ ] [Article: Squeeze and Excitation Networks Explained with PyTorch Implementation](https://amaarora.github.io/2020/07/24/SeNet.html)
+- [ ] [Article: DenseNet Architecture Explained with PyTorch Implementation from TorchVision](https://amaarora.github.io/2020/08/02/densenets.html)
+- [ ] [Article: EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://amaarora.github.io/2020/08/13/efficientnet.html)
+- [ ] [Article: Group Normalization](https://amaarora.github.io/2020/08/09/groupnorm.html)
+- [ ] [Article: A Short Introduction to Generative Adversarial Networks](https://sthalles.github.io/semi-supervised-learning-with-gans/)
+- [ ] [Article: Semi-supervised Learning with GANs](https://sthalles.github.io/intro-to-gans/)
+- [ ] [Article: Densely Connected Convolutional Networks in Tensorflow](https://sthalles.github.io/densely-connected-conv-nets/)
+- [ ] [Article: Convolutional neural networks](https://www.jeremyjordan.me/convolutional-neural-networks/)
+- [ ] [Article: Common architectures in convolutional neural networks](https://www.jeremyjordan.me/convnet-architectures/)
+- [ ] [Article: An overview of semantic image segmentation](https://www.jeremyjordan.me/semantic-segmentation/)
+- [ ] [Article: Evaluating image segmentation models](https://www.jeremyjordan.me/evaluating-image-segmentation-models/)
+- [ ] [Article: An overview of object detection: one-stage methods](https://www.jeremyjordan.me/object-detection-one-stage/)
+- [ ] [Book: Deep Learning for Computer Vision with Python](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/)
+- [ ] [Book: Practical Python and OpenCV](https://www.pyimagesearch.com/practical-python-opencv/)
+- [ ] [Coursera: Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
+- [ ] [Datacamp: Biomedical Image Analysis in Python](https://www.datacamp.com/courses/biomedical-image-analysis-in-python)
+- [ ] [Datacamp: Image Processing in Python](https://www.datacamp.com/courses/image-processing-in-python)
+- [ ] [Google: ML Practicum: Image Classification](https://developers.google.com/machine-learning/practica/image-classification)
+- [ ] [Stanford: CS231N Winter 2016](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
+	- [X] [CS231n Winter 2016: Lecture 1: Introduction and Historical Context](https://www.youtube.com/watch?v=NfnWJUyUJYU) `1:19:08`
+	- [X] [CS231n Winter 2016: Lecture 2: Data-driven approach, kNN, Linear Classification 1](https://www.youtube.com/watch?v=8inugqHkfvE) `0:57:28`
+	- [X] [CS231n Winter 2016: Lecture 3: Linear Classification 2, Optimization](https://www.youtube.com/watch?v=qlLChbHhbg4) `1:11:23`
+	- [ ] [CS231n Winter 2016: Lecture 4: Backpropagation, Neural Networks 1](https://www.youtube.com/watch?v=i94OvYb6noo) `1:19:38`
+	- [ ] [CS231n Winter 2016: Lecture 5: Neural Networks Part 2](https://www.youtube.com/watch?v=gYpoJMlgyXA) `1:18:37`
+	- [ ] [CS231n Winter 2016: Lecture 6: Neural Networks Part 3 / Intro to ConvNets](https://www.youtube.com/watch?v=hd_KFJ5ktUc) `1:09:35`
+	- [ ] [CS231n Winter 2016: Lecture 7: Convolutional Neural Networks](https://www.youtube.com/watch?v=LxfUGhug-iQ) `1:19:01`
+	- [ ] [CS231n Winter 2016: Lecture 8: Localization and Detection](https://www.youtube.com/watch?v=GxZrEKZfW2o) `1:04:57`
+	- [ ] [CS231n Winter 2016: Lecture 9: Visualization, Deep Dream, Neural Style, Adversarial Examples](https://www.youtube.com/watch?v=ta5fdaqDT3M) `1:18:20`
+	- [ ] [CS231n Winter 2016: Lecture 10: Recurrent Neural Networks, Image Captioning, LSTM](https://www.youtube.com/watch?v=yCC09vCHzF8) `1:09:54`
+	- [ ] [CS231n Winter 2016: Lecture 11: ConvNets in practice](https://www.youtube.com/watch?v=pA4BsUK3oP4) `1:15:03`
+	- [ ] [CS231n Winter 2016: Lecture 12: Deep Learning libraries](https://www.youtube.com/watch?v=Vf_-OkqbwPo) `1:21:06`
+	- [ ] [CS231n Winter 2016: Lecture 14: Videos and Unsupervised Learning](https://www.youtube.com/watch?v=ekyBklxwQMU) `1:17:36`
+	- [ ] [CS231n Winter 2016: Lecture 13: Segmentation, soft attention, spatial transformers](https://www.youtube.com/watch?v=ByjaPdWXKJ4) `1:10:59`
+	- [ ] [CS231n Winter 2016: Lecture 15: Invited Talk by Jeff Dean](https://www.youtube.com/watch?v=T7YkPWpwFD4) `1:14:49`
+- [ ] [Udacity: Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
+- [ ] [Youtube: Deep Residual Learning for Image Recognition (Paper Explained)](https://www.youtube.com/watch?v=GWt6Fu05voI)
+- [ ] [Youtube: DETR: End-to-End Object Detection with Transformers (Paper Explained)](https://www.youtube.com/watch?v=T35ba_VXkMY)
+- [ ] [Youtube: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (Paper Explained)](https://www.youtube.com/watch?v=TrdevFK_am4)
+- [ ] [Youtube: Implementing ResNet from scratch](https://www.youtube.com/playlist?list=PLbMqOoYQ3MxywF4R6MOJO7i9jFEeSGSSC)
+- [ ] [Youtube: ConvNets Scaled Efficiently](https://www.youtube.com/watch?v=fC39F8AqPo0) `0:13:19`
+- [ ] [Youtube: Building an Image Captioner with Neural Networks](https://www.youtube.com/watch?v=c_bVBYxX5EU) `0:12:54`
+- [ ] [Youtube: Evolution of Face Generation |  Evolution of GANs](https://www.youtube.com/watch?v=C1YUYWP-6rE) `0:12:23`
+- [ ] [Youtube: Autoencoders - EXPLAINED](https://www.youtube.com/watch?v=7mRfwaGGAPg) `0:10:53`
+- [ ] [Youtube: Unpaired Image-Image Translation using CycleGANs](https://www.youtube.com/watch?v=NyAosnNQv_U) `0:16:22`
+- [ ] [Youtube: AI creates Image Classifiers…by DRAWING?](https://www.youtube.com/watch?v=BeYbQkbKox8) `0:09:04`
+- [ ] [Youtube: The Evolution of Convolution Neural Networks](https://www.youtube.com/watch?v=Y2Tna77k1aI) `0:24:02`
+- [ ] [Youtube: Depthwise Separable Convolution - A FASTER CONVOLUTION!](https://www.youtube.com/watch?v=T7o3xvJLuHk) `0:12:43`
+- [ ] [Youtube: Mask Region based Convolution Neural Networks - EXPLAINED!](https://www.youtube.com/watch?v=4tkgOzQ9yyo) `0:09:34`
+- [ ] [Youtube: Sound play with Convolution Neural Networks](https://www.youtube.com/watch?v=GNza2ncnMfA) `0:11:57`
+- [ ] [Youtube: Convolution Neural Networks - EXPLAINED](https://www.youtube.com/watch?v=m8pOnJxOcqY) `0:19:20`
+- [ ] [Youtube: Generative Adversarial Networks - FUTURISTIC & FUN AI !](https://www.youtube.com/watch?v=O8LAi6ksC80) `0:14:20`
