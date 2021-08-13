@@ -1,8 +1,15 @@
 ## Mathematics Books
+- [ ] [Vector Calculus, Linear Algebra, and Differential Forms: A Unified Approach](https://www.amazon.com/Vector-Calculus-Linear-Algebra-Differential/dp/0971576688)
 - [ ] [Mathematical Methods For Physics and Engineering](https://luiarthur.github.io/assets/ams211/mathbook.pdf)
+- [ ] [Nonlinear Dynamics and Chaos](https://www.amazon.com/Nonlinear-Dynamics-Student-Solutions-Manual/dp/0813349109)
+- [ ] [Proofs from the book](https://www.amazon.com/Proofs-BOOK-Martin-Aigner/dp/3662572648)
+- [ ] [Visual Complex Analysis](https://www.amazon.com/Visual-Complex-Analysis-Tristan-Needham/dp/0198534469)
+- [ ] [Visual Group Theory](https://www.amazon.com/Visual-Group-Theory-Problem-Book/dp/088385757X)
 - [ ] [Infinite Powers: How Calculus Reveals the Secrets of the Universe](https://www.amazon.com/Infinite-Powers-Calculus-Reveals-Universe/dp/1328879984)
 - [ ] [The Mathematical Mechanic: Using Physical Reasoning to Solve Problems](https://www.amazon.com/Mathematical-Mechanic-Physical-Reasoning-Problems/dp/0691154562)
 - [ ] [The Art Of Probability](https://www.amazon.com/Art-Probability-Richard-W-Hamming/dp/0201406861)
+- [ ] [Ordinary Differential Equations](https://amzn.to/2Vbc1cJ)
+- [ ] [The Cauchy-Schwarz Master Class: An Introduction to the Art of Mathematical Inequalities](https://www.amazon.com/Cauchy-Schwarz-Master-Class-Introduction-Mathematical/dp/052154677X)
 
 ## Mathematics
 - [X] [Khan Academy: Differential Calculus](https://www.khanacademy.org/mission/differential-calculus)
