@@ -8,6 +8,7 @@
 - [ ] [Information Theory, Inference and Learning Algorithms](https://www.amazon.com/Information-Theory-Inference-Learning-Algorithms/dp/0521642981)
 - [ ] [Quantum Computing Since Democritus](https://www.amazon.com/Quantum-Computing-since-Democritus-Aaronson/dp/0521199565)
 - [ ] [Probabilistic Graphical Models](https://djsaunde.github.io/read/books/pdfs/probabilistic%20graphical%20models.pdf)
+- [ ] [Computational Geometry Algorithms and Applications](https://www.springer.com/gp/book/9783540779735)
 
 ## Docker
 - [X] [Docker for the Absolute Beginner - Hands On](https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on)
