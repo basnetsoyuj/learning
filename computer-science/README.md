@@ -1,14 +1,13 @@
 # Computer Science
 
 ## Computer Science Books
-- [ ] [Deep Learning Book](https://www.deeplearningbook.org/)
 - [ ] [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf)
-- [ ] [Hands on Machine Learning with Scikit Learn Keras and TensorFlow 2nd Edition](https://github.com/loveunk/Deep-learning-books/blob/master/1.%20Machine%20Leaning%20and%20Deep%20Learning/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20Keras%20and%20TensorFlow%202nd%20Edition-2019.pdf)
 - [ ] [Introduction to Algorithms](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf)
 - [ ] [Information Theory, Inference and Learning Algorithms](https://www.amazon.com/Information-Theory-Inference-Learning-Algorithms/dp/0521642981)
 - [ ] [Quantum Computing Since Democritus](https://www.amazon.com/Quantum-Computing-since-Democritus-Aaronson/dp/0521199565)
 - [ ] [Probabilistic Graphical Models](https://djsaunde.github.io/read/books/pdfs/probabilistic%20graphical%20models.pdf)
 - [ ] [Computational Geometry Algorithms and Applications](https://www.springer.com/gp/book/9783540779735)
+- [ ] [Gödel, Escher, Bach: An Eternal Golden Braid](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567)
 
 ## Docker
 - [X] [Docker for the Absolute Beginner - Hands On](https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on)

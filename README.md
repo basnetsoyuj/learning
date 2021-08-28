@@ -11,4 +11,5 @@ A curated and personal to-do learning list for the things I want to learn and be
 - [Mathematics](https://github.com/basnetsoyuj/learning/tree/master/mathematics)
 - [Physics](https://github.com/basnetsoyuj/learning/tree/master/physics)
 - [Research Papers](https://github.com/basnetsoyuj/learning/tree/master/research-papers)
+- [Chess](https://github.com/basnetsoyuj/learning/tree/master/chess)
 - [Miscellaneous](https://github.com/basnetsoyuj/learning/tree/master/miscellaneous)
