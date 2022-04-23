@@ -9,6 +9,11 @@
 - [ ] [Computational Geometry Algorithms and Applications](https://www.springer.com/gp/book/9783540779735)
 - [ ] [Gödel, Escher, Bach: An Eternal Golden Braid](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567)
 
+## Algorithms
+- [ ] [The Art of Computer Programming (Donald Knuth) Vol. 1 to 4](https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043)
+- [ ] [Introduction to Algorithms (CLRS)](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
+- [ ] [Algorithm Design (Kleinberg & Tardos)](https://www.amazon.com/Algorithm-Design-Jon-Kleinberg/dp/0321295358)
+
 ## Docker
 - [X] [Docker for the Absolute Beginner - Hands On](https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on)
 - [ ] [Docker - SWARM | SERVICES | STACKS - Hands-on](https://kodekloud.com/p/docker-swarm-services-stacks-hands-on)
